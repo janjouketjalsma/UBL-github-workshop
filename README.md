@@ -20,7 +20,9 @@
 3. How do you think you could use GitHub?
 
 ### Hacklearn: Exercise
+
 **Sign up and install**
+
 1. Go to Github.com
 2. Click on sign up for github
 3. Follow the instructions on the screen (ask for help if needed!)
@@ -33,6 +35,7 @@
 10. Click "Dashboard"
 
 **Clone an existing repository**
+
 1. Go to the github website
 2. Search for LeidenUniversityLibrary. Click the "Users" tab
 3. Click the ... repository
@@ -41,7 +44,9 @@
 6. When prompted for a folder leave it as it is (documents/github)
 
 **Make changes**
+
 It's cloning! Files are being copied to your machine. (Look ma, everything is local!). You see no changes because you have not yet made any changes in your copy of the repository.
+
 1. Click "open this repository"
 You now see a list of all the files in the repository.
 2. Open motto.txt
@@ -49,9 +54,11 @@ You now see a list of all the files in the repository.
 4. Go back to github desktop
 
 **Commit changes**
+
 Your changes are here (in GitHub Desktop)! Click the file once to see what has happened
 If you are satisfied with your changes click once in the "summary" text box to tell about your changes. Something like "Added the best motto ever!!!!!"
 You are now ready to commit.
+
 1. Click the "Commit to master" button.
 You are now in the "History" of the repository. Your change was added to the top of the changes list. But it is still local! (notice the blue circle in the top right corner).
 2. Click "Sync" to share your changes
