@@ -1,0 +1,9 @@
+These are some great tutorials to know more about git!
+
+https://try.github.io/levels/1/challenges/1
+
+https://www.codecademy.com/learn/learn-git
+
+https://www.atlassian.com/git/tutorials/
+
+https://git-scm.com/docs/gittutorial

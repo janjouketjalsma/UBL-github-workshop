@@ -1,0 +1,5 @@
+Three of the best known git clients for Windows:
+
+https://www.gitkraken.com/ - Git Kraken
+https://desktop.github.com/ - GitHub
+https://www.sourcetreeapp.com/ - Sourcetree
