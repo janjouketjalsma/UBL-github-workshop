@@ -37,8 +37,8 @@
 **Clone an existing repository**
 
 1. Go to the github website
-2. Search for LeidenUniversityLibrary. Click the "Users" tab
-3. Click the ... repository
+2. Search for UBL-github-workshop
+3. Click the UBL-github-workshop repository
 4. Next to "Download zip" there is a button that looks like a computer screen with a downward pointing arrow. Click it.
 5. If prompted click "allow" or "start application"
 6. When prompted for a folder leave it as it is (documents/github)
